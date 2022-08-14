@@ -45,3 +45,4 @@ This is just an idea, but it exposes you to several aspects of Go that I think a
 - ```
   https://gophercises.com/
   ```   
+- https://courses.calhoun.io/courses
