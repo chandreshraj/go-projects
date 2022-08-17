@@ -46,3 +46,8 @@ This is just an idea, but it exposes you to several aspects of Go that I think a
   https://gophercises.com/
   ```   
 - https://courses.calhoun.io/courses
+
+## important to understand why GO was used.
+- ```
+  https://go.dev/solutions/#case-studies
+  ```
